@@ -1,28 +1,14 @@
-# Berry Free Bootstrap Admin Template 
+# Berry Free Bootstrap5 Template 
 
 Berry is a free Bootstrap admin dashboard template. It is designed to deliver the best possible user experience with highly customizable feature-rich pages. Berry has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
-> Forked from [Berry BS5](https://codedthemes.com/item/berry-bootstrap-free-admin-template/?ref=appseed) for accelerated development. 
+> Forked from [Berry BS5](https://codedthemes.com/item/berry-bootstrap-free-admin-template/?ref=appseed) (free version) for `accelerated development`. 
 
 <br />
 
-![IMG_8566.jpg](https://berrydashboard.io/imp-images/berry-github-free-bootstrap-repo-1.jpg)
+![React Nodejs Berry - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/176936514-f1bccb21-bafe-4b43-9e4c-b6fe0ec9511d.png)
 
-
-[Pro version](https://codedthemes.com/item/berry-bootstrap-5-admin-template/) of Berry react template contains features like Mutiple Layouts, Apps, Advance Components, Form Plugins, Layouts, Widgets, and many more.
-
-| [Berry Free](https://berrydashboard.io/bootstrap/free/)    | [Berry](https://codedthemes.com/item/berry-bootstrap-5-admin-template/) |
-| ---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------|
-| **9** Demo pages                                                                         | **45+** demo pages                                                       |
-| -                                                                                        | ✓ Multi-language                                                         |
-| -                                                                                        | ✓ Dark/Light Mode 🌓                                                    |
-| -                                                                                        | ✓ TypeScript version                                                     |
-| -                                                                                        | ✓ Design files (Figma)                                                   |
-| -                                                                                        | ✓ 6+ color Options                                                       |
-| -                                                                                        | ✓ RTL                                                                    |
-| -                                                                                        | ✓ JWT, Firebase, Auth0 authentications                                   |
-| -                                                                                        | ✓ [More components](https://codedthemes.com/item/berry-bootstrap-5-admin-template/)         |  
-
+<br >
 
 ## Why Berry?
 
