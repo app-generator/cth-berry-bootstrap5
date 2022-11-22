@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.0] 2022-11-21
+### Improvements
+
+- Added `Dark-Mode`
+- UI Persistence via `local storage`
+
 ## [0.0.1] 2022-11-18
 ### Initial Import
 
