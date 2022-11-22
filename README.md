@@ -1,6 +1,6 @@
 # [Berry Bootstrap 5](https://github.com/app-generator/cth-berry-bootstrap5) 
 
-Berry is a free Bootstrap admin dashboard template. It is designed to deliver the best possible user experience with highly customizable feature-rich pages. Berry has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
+Berry is a free **Bootstrap 5 Admin** dashboard template. It is designed to deliver the best possible user experience with highly customizable feature-rich pages. Berry has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
 
 > **NOTE**: This project is forked from [Berry BS5](https://codedthemes.com/item/berry-bootstrap-free-admin-template/?ref=appseed) by *CodedThemes* for `accelerated development`. 
 
