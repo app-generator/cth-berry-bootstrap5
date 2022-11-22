@@ -11,7 +11,7 @@ Berry is a free **Bootstrap 5 Admin** dashboard template. It is designed to deli
 
 <br />
 
-![React Nodejs Berry - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/176936514-f1bccb21-bafe-4b43-9e4c-b6fe0ec9511d.png)
+![Berry Bootstrap 5 - Dark-Mode ready, Open-source Template.](https://user-images.githubusercontent.com/51070104/203366808-c93b852d-d70c-4b2d-86f2-c146e5f5a05c.jpg)
 
 <br >
 
