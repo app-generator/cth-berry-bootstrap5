@@ -19,30 +19,21 @@ Berry is a free Bootstrap admin dashboard template. It is designed to deliver th
 
 Get started with a sweet set of features including:
 
- * `Modern aesthetics` UI design
- * `Bootstrap 5` components
- * `Fully Responsive`, all modern browser supported
- * Persistent `Dark-Mode`
+ * ✅ `Modern aesthetics` UI design
+ * ✅ [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) components
+ * ✅ `Fully Responsive`, all modern browser supported
+ * ✅ Persistent `Dark-Mode`
 
 <br />
 
 > Quick Start - Tested with **Node v16** and **Gulp v4.0.2**
 
 ```bash
-$ # Get the code
-$ git clone https://github.com/app-generator/cth-berry-bootstrap5.git
-$ cd cth-berry-bootstrap5
-$ 
-$ # Install MOdules
-$ npm install
-$ #  OR
-$ yarn
-$
-$ # Start the app 
-$ gulp 
+$ yarn   # install modules 
+$ gulp   # start the project (LIVE reload)
 ```
 
-At this point, the project should run in the browset at address `http://localhost:3000`
+At this point, the project should run in the browser at address `http://localhost:3000`
 
 <br />  
 
