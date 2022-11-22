@@ -15,7 +15,7 @@ Berry is a free Bootstrap admin dashboard template. It is designed to deliver th
 
 <br >
 
-## Why Berry?
+## ✨ Why Berry?
 
 Get started with a sweet set of features including:
 
@@ -37,15 +37,13 @@ At this point, the project should run in the browser at address `http://localhos
 
 <br />  
 
-## Author
+## ✨ Author
 
 Berry is developed by [CodedThemes](https://codedthemes.com?ref=appseed), enhanced for `accelerated development` by [AppSeed](https://appseed.us)
 
 <br />
 
-<br />
-
-## License
+## ✨ License
 
 [@MIT](./LICENSE.md)
 
