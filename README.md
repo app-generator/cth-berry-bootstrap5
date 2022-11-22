@@ -21,7 +21,7 @@ Get started with a sweet set of features including:
 
  * ✅ `Modern aesthetics` UI design
  * ✅ [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) components
- * ✅ `Fully Responsive`, all modern browser supported
+ * ✅ `Fully Responsive`, all modern browsers supported
  * ✅ Persistent `Dark-Mode`
 
 <br />
